@@ -2,7 +2,7 @@
     section{
         display: flex;
         width: 60vw;
-        height: 40vh;
+        height: 60vh;
     }
     .imagem{
         background-image: url('../src/images/image-product-desktop.jpg');
