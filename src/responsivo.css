@@ -1,0 +1,33 @@
+@media screen and (min-width: 522px) and (max-width:768px){
+    section{
+        display: flex;
+        width: 60vw;
+        height: 40vh;
+    }
+    .imagem{
+        background-image: url('../src/images/image-product-desktop.jpg');
+        width: 50%;
+        height: 100%;
+    }
+    .descricao{
+        width: 50%;
+    }
+}
+@media screen and (min-width: 769px){
+    section{
+        display: flex;
+        width: 60vw;
+        height: 37vh;
+    }
+    .imagem{
+        background-image: url('../src/images/image-product-desktop.jpg');
+        width: 50%;
+        height: 100%;
+    }
+    .carrinho{
+        margin-top: 30px;
+    }
+    .descricao{
+        width: 50%;
+    }
+}
